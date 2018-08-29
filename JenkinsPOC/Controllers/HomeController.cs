@@ -10,7 +10,6 @@ namespace JenkinsPOC.Controllers
     {
         public ActionResult Index()
         {
-            var x = 10;
             return View();
         }
 
